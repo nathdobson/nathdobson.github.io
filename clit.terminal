@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>CommandString</key>
-	<string>stty raw -icanon -echo; nc -X5 -xclit.rocks:8002 $USER 1337; stty cooked icanon echo; printf "\r"</string>
+	<string>stty raw -icanon -echo; nc -X5 -xuswest.clit.rocks:8002 $USER 1337; stty cooked icanon echo; printf "\r"</string>
 	<key>Font</key>
 	<data>
 	YnBsaXN0MDDUAQIDBAUGGBlYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
