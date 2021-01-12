@@ -6,27 +6,49 @@
 	<string>stty raw -icanon -echo; nc -X5 -xuswest.clit.rocks:8002 $USER 1337; stty cooked icanon echo; printf "\r"</string>
 	<key>Font</key>
 	<data>
-	YnBsaXN0MDDUAQIDBAUGGBlYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
-	AAGGoKQHCBESVSRudWxs1AkKCwwNDg8QVk5TU2l6ZVhOU2ZGbGFnc1ZOU05hbWVWJGNs
-	YXNzI0AmAAAAAAAAEBCAAoADXlNGTW9uby1SZWd1bGFy0hMUFRZaJGNsYXNzbmFtZVgk
-	Y2xhc3Nlc1ZOU0ZvbnSiFRdYTlNPYmplY3RfEA9OU0tleWVkQXJjaGl2ZXLRGhtUcm9v
-	dIABCBEaIy0yNzxCS1JbYmlydHZ4h4yXoKeqs8XIzQAAAAAAAAEBAAAAAAAAABwAAAAA
-	AAAAAAAAAAAAAADP
+	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
+	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGkCwwVFlUkbnVsbNQNDg8QERIT
+	FFZOU1NpemVYTlNmRmxhZ3NWTlNOYW1lViRjbGFzcyNAMgAAAAAAABAQgAKAA11HQjE4
+	MDMwQml0bWFw0hcYGRpaJGNsYXNzbmFtZVgkY2xhc3Nlc1ZOU0ZvbnSiGRtYTlNPYmpl
+	Y3QIERokKTI3SUxRU1heZ253foWOkJKUoqeyu8LFAAAAAAAAAQEAAAAAAAAAHAAAAAAA
+	AAAAAAAAAAAAAM4=
 	</data>
 	<key>FontAntialias</key>
 	<true/>
 	<key>FontHeightSpacing</key>
-	<real>0.76400000000000001</real>
+	<real>0.66272560160427796</real>
 	<key>FontWidthSpacing</key>
-	<real>1.004032258064516</real>
+	<real>0.60582386363636354</real>
 	<key>ProfileCurrentVersion</key>
-	<real>2.0600000000000001</real>
+	<real>2.0699999999999998</real>
 	<key>RunCommandAsShell</key>
+	<false/>
+	<key>ShowActiveProcessInTitle</key>
+	<false/>
+	<key>ShowCommandKeyInTitle</key>
+	<false/>
+	<key>ShowDimensionsInTitle</key>
+	<false/>
+	<key>ShowRepresentedURLInTitle</key>
+	<false/>
+	<key>ShowRepresentedURLPathInTitle</key>
+	<true/>
+	<key>ShowShellCommandInTitle</key>
+	<false/>
+	<key>ShowTTYNameInTitle</key>
+	<false/>
+	<key>ShowWindowSettingsNameInTitle</key>
 	<false/>
 	<key>WindowTitle</key>
 	<string>Tîchü</string>
+	<key>columnCount</key>
+	<integer>88</integer>
+	<key>fontAllowsDisableAntialias</key>
+	<integer>1</integer>
 	<key>name</key>
-	<string>Tichu</string>
+	<string>clit</string>
+	<key>rowCount</key>
+	<integer>40</integer>
 	<key>type</key>
 	<string>Window Settings</string>
 	<key>warnOnShellCloseAction</key>
